@@ -1,0 +1,20 @@
+1.Nilai User Experience (UX) terbaik dari desain yang telah saya buat adalah Hierarki Informasi yang Jelas dan Umpan Balik Interaksi yang Kaya (Rich Feedback).
+
+Maksudnya:
+
+Hierarki Jelas: Informasi penting (Nama, Kontak) selalu terlihat, sementara detail sekunder (Keterangan Diri) disembunyikan secara default dan hanya ditampilkan saat pengguna sengaja mengklik kartu. Ini membuat halaman ringkas dan tidak membingungkan.
+
+Umpan Balik Kaya: Animasi ripple effect (saat kartu detail diklik) dan Hero transition (saat foto profil dilihat detail) memberikan respons visual yang mulus dan instan, sehingga pengguna tahu pasti elemen mana yang interaktif.
+
+2.Kejelasan Aksi Toggle Keterangan Diri
+Meskipun fungsional, menggunakan seluruh area kartu detail kontak untuk memicu tampilan/penyembunyian "Keterangan Diri" dapat sedikit ambigu.
+
+Peningkatan: Buat Tombol Khusus untuk Toggle. Alih-alih mengklik seluruh kartu kontak, fungsi toggle (sembunyikan/tampilkan) seharusnya diletakkan pada elemen yang lebih spesifik, seperti di dalam ExpansionTile atau tombol terpisah dengan label yang sangat jelas, misalnya, "Lihat Selengkapnya" atau "Tentang Saya." Ini akan membebaskan kartu kontak untuk aksi lain yang lebih relevan (misalnya, menyalin nomor atau alamat).
+
+3.	> Motion Provides Meaning (Gerakan Memberi Makna)
+Prinsip ini paling menonjol karena gerakan dan animasi digunakan untuk mengarahkan perhatian pengguna dan memberikan umpan balik yang jelas.
+	> Material is the Metaphor (Material sebagai Metafora)
+Prinsip ini menekankan bahwa elemen digital harus terasa seperti objek fisik (seperti kertas) yang memiliki permukaan, ketebalan, dan bayangan.
+	> Bold, Graphic, Intentional (Tegas, Grafis, Bertujuan)
+Desain menggunakan warna dan tipografi secara sadar untuk menonjolkan elemen penting dan mengarahkan pengguna.
+	
